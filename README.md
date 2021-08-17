@@ -1,0 +1,2 @@
+# ArmstrongNumber
+just another repository
